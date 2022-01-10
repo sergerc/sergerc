@@ -4,13 +4,13 @@
 
 * :office_worker: Estoy graduado en Administración y Dirección de Empresas
 * :computer: Actualmente estudio un Máster en Ciencia de Datos.
-* :chart_with_downwards_trend: Interesado en la extracción, tratamiento y análisis de los datos. 
+* :chart: Interesado en la extracción, tratamiento y análisis de los datos. 
 
 ## ENGLISH
 
 * :office_worker: Graduated in business administration and management. 
 * :computer: I'm currently studying a Master degree in Data Science. 
-* :chart_with_downwards_trend: I'm interested in data extraction, processing and analysis.
+* :chart: I'm interested in data extraction, processing and analysis.
 
 ## Skills
 
