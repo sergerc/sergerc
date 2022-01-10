@@ -17,11 +17,11 @@
 
 * :snake: Some Python coding. 
 * :monocle_face: Critical thinking, decision-making and problem solving skills.
-* :handshake: Data analyst with a strong financial background. 
+* :chart_with_upwards_trend: Data analyst with a strong financial background. 
 * :computer: Other Skills: Advanced excel, Tableau, Docker, RStudio, SQL, Spark. 
 
 ## CONTACT: 
 
-* :link: Contact me via ['Linkedin'](https://www.linkedin.com/in/sergio-ranz-casado-3318b713a/)
+* :handshake: Contact me via ['Linkedin'](https://www.linkedin.com/in/sergio-ranz-casado-3318b713a/)
 
 * :mailbox_with_no_mail: Contact me via email: sergio.ranz95@gmail.com
