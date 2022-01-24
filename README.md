@@ -2,7 +2,7 @@
 
 ## ESPAÑOL
 
-* :office_worker: Estoy graduado en Administración y Dirección de Empresas
+* :office_worker: Soy graduado en Administración y Dirección de Empresas
 * :computer: Actualmente estudio un Máster en Ciencia de Datos.
 * :chart: Interesado en la extracción, tratamiento y análisis de los datos. 
 
